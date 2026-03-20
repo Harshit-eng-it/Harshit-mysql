@@ -41,14 +41,14 @@ CREATE TABLE dep1 (
 Example data inserted into the table:
 | name      | rollno | grade | marks |
 |-----------|--------|-------|-------|
-| bhawna    | 1      | B     | 55    |
+| Jivika    | 1      | B     | 55    |
 | sakshi    | 2      | A     | 96    |
-| ishant    | 3      | C     | 22    |
+| Akshay    | 3      | C     | 22    |
 | sameer    | 4      | D     | 12    |
 | siddhant  | 5      | B     | 55    |
 | ananya    | 6      | A     | 70    |
 | pappu     | 7      | F     | 2     |
-| bhawna    | 1      | A     | 98    |
+| Shrawini  | 1      | A     | 98    |
 | Harshit   | 3      | A     | 91    |
 | Shrawank  | 6      | A     | 70    |
 | satyam    | 7      | F     | 2     |
